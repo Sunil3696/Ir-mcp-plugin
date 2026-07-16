@@ -1,0 +1,23 @@
+{
+  "name": "hotei-marketplace",
+  "description": "Plugins from Hotei Media Production.",
+  "owner": {
+    "name": "Hotei Media Production",
+    "email": "hotei.media.production@gmail.com"
+  },
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "live-output-artifacts",
+      "source": "./",
+      "version": "1.8.0",
+      "description": "Live Cowork artifacts for IR MCP \u2014 auto-render agent output, a Rockstar Agents command center (now with an Outputs tab of every deliverable, by client/agent/skill), and a chat panel.",
+      "category": "productivity",
+      "keywords": [
+        "mcp",
+        "live-artifact",
+        "cowork"
+      ]
+    }
+  ]
+}
